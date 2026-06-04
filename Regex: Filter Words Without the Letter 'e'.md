@@ -14,6 +14,7 @@ To write a Python program that filters out and returns all elements from a list 
 5. Print the final filtered list.
 
 ## 🧾 Program
+```
 import re
 l1=[] 
 
@@ -24,6 +25,7 @@ for i in items:
       l1.append(i) 
 
 print(l1)
+```
 ## Output
 <img width="405" height="139" alt="image" src="https://github.com/user-attachments/assets/8732f5ab-2fd8-49fd-b565-a25066b12b9c" />
 
